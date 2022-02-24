@@ -1,5 +1,6 @@
 {
     "name": "TeXt Theme",
+    "dir": "ltr",
     "short_name": "TeXt Theme",
     "icons": [
         {
@@ -15,5 +16,7 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone"
+    "start_url": "https://PE-WiKi.github.io",
+    "display": "standalone",
+    "orientation": "natural"
 }
