@@ -1,7 +1,7 @@
 ---
 title: What is electric current?
 tags: Basic
-date: 2015-02-08T20:39:51-09:00
+date: 2022-02-27 00:15
 comments: true
 article_header:
   type: cover
