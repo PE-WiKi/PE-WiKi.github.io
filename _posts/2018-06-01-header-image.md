@@ -4,7 +4,7 @@ tags: Basic
 article_header:
   type: cover
   image:
-    src: Themes/Electrics.jpg
+    src: assets/images/headers/Electrics.jpg
 ---
 
 asfasfasf
