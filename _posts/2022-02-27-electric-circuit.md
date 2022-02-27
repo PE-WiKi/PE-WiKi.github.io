@@ -24,7 +24,7 @@ If you use passive elements in combination, you can make helpful an effective sy
 
 <div class="hero hero--dark" style='height: 150px; background-image: url("/assets/images/contents/refs.jpg");'>
   <div class="hero__content">
-    <p style='font-size=12px;font-weight: bold;'>References</p>
-    <p style='font-size=9px;'>- Charles Alexander, Matthew Sadiku - Fundamentals of Electric Circuits-McGraw-Hill Science_Engineering_Math (2012)</p>
+    <p style='font-size=6px;font-weight: bold;'>References</p>
+    <p style='font-size=5px;'>- Charles Alexander, Matthew Sadiku - Fundamentals of Electric Circuits-McGraw-Hill Science_Engineering_Math (2012)</p>
   </div>
 </div>
