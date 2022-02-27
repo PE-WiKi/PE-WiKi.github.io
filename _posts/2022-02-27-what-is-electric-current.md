@@ -8,13 +8,13 @@ Electric current starts from electrons' movement. Electron is a subatom, and it 
 <div class="grid-container">
   <div class="grid grid--p-3">
     <div class="cell cell--6">
-      ![waterwheel](/assets/images/contents/waterwheel.jpg){:.rounded}
+      <img class="image image--lg" src="/assets/images/contents/waterwheel.jpg"/>
     </div>
     <div class="cell cell--6">
       <div>Water drips and turns the water wheel to generate power.</div>
     </div>
     <div class="cell cell--6">
-      ![waterwheel_e-modeling](/assets/images/contents/waterwheel_e-modeling.jpg){:.rounded}
+      <img class="image image--lg" src="/assets/images/contents/waterwheel_e-modeling.jpg"/>
     </div>
     <div class="cell cell--6">
       <div>Waterwheel's rolling resistance to water drop and water drop can be modeled as a single electric resistance, voltage source each. 

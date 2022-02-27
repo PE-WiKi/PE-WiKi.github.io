@@ -1,5 +1,5 @@
 ---
-title: Electric Circuit
+title: Passive Elements
 tags: Basic
 ---
 
