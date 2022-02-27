@@ -3,7 +3,7 @@ title: What is electric current?
 tags: Basic
 ---
 
-Electric current starts from electrons' movement. Electron is a subatom, and it has 1.60217662 × 10e-19 C in it. ELectric current is very similar to the flow of water. Let' see belows.
+Electric current starts from electrons' movement. Electron is a subatom, and it has 1.60217662 × 10e-19 C in it. Electric current is very similar to the flow of water. Let' see belows.
 
 <div class="item">
   <div class="item__image">
