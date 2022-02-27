@@ -18,3 +18,4 @@ Electric current starts from electrons' movement. Electron is a subatom, and it 
 
 ![waterwheel](assets/images/contents/waterwheel.jpg){:.rounded}
 
+Water drips and turns the water wheel to generate power. 
