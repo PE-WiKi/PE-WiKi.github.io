@@ -7,4 +7,14 @@ article_header:
     src: assets/images/headers/Electrics.jpg
 ---
 
-asfasfasf
+<div class="hero hero--dark" style='background-image: url("assets/images/contents/waterwheel.jpg");'>
+  <div class="hero__content">
+    <h3>Water wheel</h3>
+    <p>Water drips and turns the water wheel to generate power. </p>
+  </div>
+</div>
+
+Electric current starts from electrons' movement. Electron is a subatom, and it has 1.60217662 × 10e-19 C in it. ELectric current is very similar with the flow of water. Let' see belows.
+
+![waterwheel](assets/images/contents/waterwheel.jpg){:.rounded}
+
