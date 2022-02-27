@@ -21,6 +21,14 @@ An inductor is a passive element designed to store energy in its magnetic field.
 
 If you use passive elements in combination, you can make helpful an effective system that will acheive your goals.  
 
+
+<div class="hero hero--dark" style='background-image: url("path-to-image");'>
+  <div class="hero__content">
+    <h3>Hero</h3>
+  </div>
+</div>
+
+
 References  
-- Charles Alexander, Matthew Sadiku - Fundamentals of Electric Circuits-McGraw-Hill Science_Engineering_Math (2012)
-{:.info}
+- Charles Alexander, Matthew Sadiku - Fundamentals of Electric Circuits-McGraw-Hill Science_Engineering_Math (2012)  
+{:.info}  
