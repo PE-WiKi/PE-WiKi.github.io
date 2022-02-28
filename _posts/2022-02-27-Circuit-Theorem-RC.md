@@ -63,7 +63,7 @@ Ceq = C1 + C2 + ... + Cn
 <p style="font-size: 20px;font-weight: bold;">Discharging State</p>
 <p style="font-size: 15px;font-weight: normal;">4~5τ can be used as a settling time.</p>
 
-===========  
+----  
 
 <div class="item">
   <div class="item__image">
