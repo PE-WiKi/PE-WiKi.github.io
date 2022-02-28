@@ -2,7 +2,7 @@
 title: Passive Elements
 tags: Basic
 ---
-
+    
 # What is passive elements?  
 In grammar, a passive verb or sentence is one in which the subject is affected by the action. In electric circuit, resistor, capacitor, inductor are the passive elements. Passive elements are affected by electrons' flow.  
 
