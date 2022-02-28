@@ -4,7 +4,7 @@ tags: Basic
 ---  
 
 # Introduction  
-RC Circuit consists of resistors and capacitors. Depending on the configuration, RC circuit can be applied in various fields. For examples of applications, RC circuit can be used as a delay circuit, a relay circuit, an automobile ignition switch circuit.  
+RC Circuit consists of resistors and capacitors. Depending on the configuration, RC circuit can be applied in various fields. For example, RC circuit can be used as a Delay circuit.  
 <img class="image image--xl" src="/assets/images/contents/RC_Circuit/capacitor_simple.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
 <p style="font-size: 20px;font-weight: bold;">Delay Circuit</p>
 
