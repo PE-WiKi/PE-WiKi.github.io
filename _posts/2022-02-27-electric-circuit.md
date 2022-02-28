@@ -21,8 +21,7 @@ An inductor is a passive element designed to store energy in its magnetic field.
 
 If you use passive elements in combination, you can make helpful an effective system that will acheive your goals.  
 
-<hr/>
-<hr/>
+===========
 
 <div class="item">
   <div class="item__image">
