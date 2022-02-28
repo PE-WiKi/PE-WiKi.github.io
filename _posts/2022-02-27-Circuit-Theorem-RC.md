@@ -6,39 +6,25 @@ tags: Basic
 # RC Circuit  
 RC Circuit consists of resistors and capacitors. Depending on the configuration, RC circuit can be applied in various fields. For examples of applications, RC circuit can be used as a delay circuit, a relay circuit, an automobile ignition switch circuit.  
 
-<div class="item">
-  <div class="item__image">
-    <img class="image image--sm" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4>Delay circuit</h4>
-    </div>
-    <div class="item__description">
-      <p>The larger R2, the longer it will take for the neon lamp to fully light up.</p>
-    </div>
-  </div>
+<div style="justify-content: center;">
+    <img class="image image--xl" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg" style="height: 300px"/>
+    <hr/>
+    <p style="font-size: 10px;font-weight: bold;">Delay Circuit</p>
+    <p style="font-size: 8px;font-weight: normal;">The larger R2, the longer it will take for the neon lamp to fully light up.</p>
 </div>
 
-<div class="item">
-  <div class="item__image">
-    <img class="image image--sm" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4>Relay circuit</h4>
-    </div>
-    <div class="item__description">
-      <p>The larger R2, the longer it will take for the neon lamp to fully light up.</p>
-    </div>
-  </div>
+<div style="justify-content: center">
+    <img class="image image--xl" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg" style="height: 300px"/>
+    <hr/>
+    <p style="font-size: 10px;font-weight: bold;">Relay Circuit</p>
+    <p style="font-size: 10px;font-weight: bold;">The larger R2, the longer it will take for the neon lamp to fully light up.</p>
 </div>
 
 <div class="grid">
   <div class="cell cell--6">
     <div class="card">
         <div class="card__image">
-            <img class="image" src="/assets/images/contents/RC_Circuit/RC_Charging.jpg"/>
+            <img class="image" src="/assets/images/contents/RC_Circuit/RC_Charging.jpg" style="height: 450px;"/>
         </div>
         <div class="card__content">
             <div class="card__header">
@@ -50,7 +36,7 @@ RC Circuit consists of resistors and capacitors. Depending on the configuration,
   <div class="cell cell--6">
     <div class="card">
         <div class="card__image">
-            <img class="image" src="/assets/images/contents/RC_Circuit/RC_Discharging.jpg"/>
+            <img class="image" src="/assets/images/contents/RC_Circuit/RC_Discharging.jpg" style="height: 450px;"/>
         </div>
         <div class="card__content">
             <div class="card__header">
@@ -60,6 +46,9 @@ RC Circuit consists of resistors and capacitors. Depending on the configuration,
     </div>
   </div>
 </div>
+
+<hr/>
+<hr/>
 
 <div class="item">
   <div class="item__image">
