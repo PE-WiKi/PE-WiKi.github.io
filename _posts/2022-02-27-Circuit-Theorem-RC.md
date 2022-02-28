@@ -8,39 +8,34 @@ RC Circuit consists of resistors and capacitors. Depending on the configuration,
 
 ## Applications
 
-<img class="image image--xl" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg" style="height: 300px;display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+<img class="image image--lg" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
 <p style="font-size: 20px;font-weight: bold;">Delay Circuit</p>
 <p style="font-size: 15px;font-weight: normal;">The larger R2, the longer it will take for the neon lamp to fully light up.</p>
 
-<img class="image image--xl" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg" style="height: 300px;display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+<img class="image image--lg" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
 <p style="font-size: 20px;font-weight: bold;">Relay Circuit</p>
 <p style="font-size: 15px;font-weight: normal;">The larger R2, the longer it will take for the neon lamp to fully light up.</p>
 
-<div class="grid">
-  <div class="cell cell--6">
-    <div class="card">
-        <div class="card__image">
-            <img class="image" src="/assets/images/contents/RC_Circuit/RC_Charging.jpg" style="height: 250px;"/>
-        </div>
-        <div class="card__content">
-            <div class="card__header">
-            <h4>Charging State</h4>
-            </div>
+<div class="card">
+    <div class="card__image">
+        <img class="image" src="/assets/images/contents/RC_Circuit/RC_Charging.jpg" />
+    </div>
+    <div class="card__content">
+        <div class="card__header">
+        <h4>Charging State</h4>
         </div>
     </div>
-  </div>
-  <div class="cell cell--6">
-    <div class="card">
-        <div class="card__image">
-            <img class="image" src="/assets/images/contents/RC_Circuit/RC_Discharging.jpg" style="height: 250px;"/>
-        </div>
-        <div class="card__content">
-            <div class="card__header">
-            <h4>Discharging State</h4>
-            </div>
+</div>
+    
+<div class="card">
+    <div class="card__image">
+        <img class="image" src="/assets/images/contents/RC_Circuit/RC_Discharging.jpg" />
+    </div>
+    <div class="card__content">
+        <div class="card__header">
+        <h4>Discharging State</h4>
         </div>
     </div>
-  </div>
 </div>
 
 <hr width="100%" />
