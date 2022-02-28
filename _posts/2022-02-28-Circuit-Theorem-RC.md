@@ -6,12 +6,11 @@ tags: Basic
 # Introduction  
 RC Circuit consists of resistors and capacitors. Depending on the configuration, RC circuit can be applied in various fields. For example, RC circuit can be used as a Delay circuit.  
 <img class="image image--xl" src="/assets/images/contents/RC_Circuit/capacitor_simple.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
-<p style="font-size: 20px;font-weight: bold;">Delay Circuit</p>
 
-<img class="image image--xl" src="/assets/images/contents/RC_Circuit/illustration_of_capacitor_charging.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>  
+<img class="image image--xl" src="/assets/images/contents/RC_Circuit/illustration_of_capacitor_charging.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 70%;"/>  
 
 # Step Response  
-<img class="image image--lg" src="/assets/images/contents/RC_Circuit/capacitor_step_response.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>  
+<img class="image image--lg" src="/assets/images/contents/RC_Circuit/capacitor_step_response.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 70%;"/>  
 
 # Limits
 
@@ -49,10 +48,6 @@ Ceq = C1 + C2 + ... + Cn
 # Applications  
 <img class="image image--xl" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
 <p style="font-size: 20px;font-weight: bold;">Delay Circuit</p>
-<p style="font-size: 15px;font-weight: normal;">The larger R2, the longer it will take for the neon lamp to fully light up.</p>
-
-<img class="image image--xl" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
-<p style="font-size: 20px;font-weight: bold;">Relay Circuit</p>
 <p style="font-size: 15px;font-weight: normal;">The larger R2, the longer it will take for the neon lamp to fully light up.</p>
 
 <img class="image image--xl" src="/assets/images/contents/RC_Circuit/RC_Charging.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
