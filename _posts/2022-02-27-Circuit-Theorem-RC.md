@@ -6,13 +6,15 @@ tags: Basic
 # RC Circuit  
 RC Circuit consists of resistors and capacitors. Depending on the configuration, RC circuit can be applied in various fields. For examples of applications, RC circuit can be used as a delay circuit, a relay circuit, an automobile ignition switch circuit.  
 
-<img class="image image--xl" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg" style="height: 450px;display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+## Applications
+
+<img class="image image--xl" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg" style="height: 300px;display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
 <p style="font-size: 20px;font-weight: bold;">Delay Circuit</p>
 <p style="font-size: 15px;font-weight: normal;">The larger R2, the longer it will take for the neon lamp to fully light up.</p>
 
-<img class="image image--xl" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg" style="height: 450px;display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+<img class="image image--xl" src="/assets/images/contents/RC_Circuit/DelayCircuit.jpg" style="height: 300px;display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
 <p style="font-size: 20px;font-weight: bold;">Relay Circuit</p>
-<p style="font-size: 15px;font-weight: bold;">The larger R2, the longer it will take for the neon lamp to fully light up.</p>
+<p style="font-size: 15px;font-weight: normal;">The larger R2, the longer it will take for the neon lamp to fully light up.</p>
 
 <div class="grid">
   <div class="cell cell--6">
@@ -41,8 +43,7 @@ RC Circuit consists of resistors and capacitors. Depending on the configuration,
   </div>
 </div>
 
-<hr/>
-<hr/>
+<hr width="100%" />
 
 <div class="item">
   <div class="item__image">
