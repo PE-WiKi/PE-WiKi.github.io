@@ -7,14 +7,21 @@ tags: Basic
 RL Circuit consists of resistors and Inductors. Depending on the configuration, RL circuit can be applied in various fields. For example, RL circuit can be used as a relay circuit.  
 
 # Magnitude of Inductance  
-$$
-L = {N^(2)μA \over ℓ}
-$$
 <img class="image image--lg" src="/assets/images/contents/RL_Circuit/Inductor.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 60%;"/>  
+$$
+L = {N^{2}μA \over ℓ}
+$$  
 
 # Voltage    
 ## Faraday’s Law  
-> The amount of voltage induced in a coil is directly proportional to the rate of change of the magnetic field with respect to the coil.
+> The amount of voltage induced in a coil is directly proportional to the rate of change of the magnetic field with respect to the coil.  
+
+$$
+V_{ind} = N{d\phi \over dt}
+$$
+
+## Lenz’s Law  
+When the current through a coil changes, an induced voltage is created as a result of the changing electromagnetic field and the polarity of the induced voltage is such that it always opposes the change in current.
 
 # Limits  
 ## Winding Resistance
