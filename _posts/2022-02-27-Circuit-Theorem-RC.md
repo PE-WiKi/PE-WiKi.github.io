@@ -17,7 +17,7 @@ RC Circuit consists of resistors and capacitors. Depending on the configuration,
 
 ## Voltage Rating
 Every capacitor has a limit on the amount of voltage that it can withstand across its plates. The voltage rating specifies the maximum dc voltage that can be applied without risk of damage to the device. Below is a datasheet of a MLCC. Appropriate capacitors must be selected to avoid damage to the circuit.  
-<img class="image image--xl" src="/assets/images/contents/RC_Circuit/datasheet_mlcc.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 50%;"/>  
+<img class="image image--xl" src="/assets/images/contents/RC_Circuit/datasheet_mlcc.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
 
 ## Temperature Coefficient  
 The temperature coefficient indicates the amount and direction of a change in capacitance value with temperature. For example, a negative temperature coefficient of 150 ppm/°C for a 1 mF capacitor means that for every degree rise in temperature, the capacitance decreases by 150 pF.  
