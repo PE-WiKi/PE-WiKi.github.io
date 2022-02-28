@@ -11,20 +11,20 @@ RC Circuit consists of resistors and capacitors. Depending on the configuration,
 <img class="image image--xl" src="/assets/images/contents/RC_Circuit/illustration_of_capacitor_charging.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>  
 
 # Step Response  
-<img class="image image--xl" src="/assets/images/contents/RC_Circuit/capacitor_step_response.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>  
+<img class="image image--lg" src="/assets/images/contents/RC_Circuit/capacitor_step_response.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>  
 
 # Limits
 
 ## Voltage Rating
 Every capacitor has a limit on the amount of voltage that it can withstand across its plates. The voltage rating specifies the maximum dc voltage that can be applied without risk of damage to the device. Below is a datasheet of a MLCC. Appropriate capacitors must be selected to avoid damage to the circuit.  
-<img class="image image--xl" src="/assets/images/contents/RC_Circuit/datasheet_mlcc.jpg"/>  
+<img class="image image--xl" src="/assets/images/contents/RC_Circuit/datasheet_mlcc.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 50%;"/>  
 
 ## Temperature Coefficient  
 The temperature coefficient indicates the amount and direction of a change in capacitance value with temperature. For example, a negative temperature coefficient of 150 ppm/°C for a 1 mF capacitor means that for every degree rise in temperature, the capacitance decreases by 150 pF.  
 
 ## Leakage  
 No insulating material is perfect. The dielectric of any capacitor will conduct some very small amount of current. Thus, the charge on a capacitor will eventually leak off. Some types of capacitors, such as large electrolytic types, have higher leakages than others.  
-<img class="image image--lg" src="/assets/images/contents/RC_Circuit/capacitor_leakage_eq_circuit.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>  
+<img class="image image--md" src="/assets/images/contents/RC_Circuit/capacitor_leakage_eq_circuit.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>  
 
 # Types of Capacitors  
 [Mica Capacitor](https://eepower.com/capacitor-guide/types/mica-capacitor/#)  
