@@ -71,11 +71,11 @@ From Faraday's law of induction, the changing magnetic field can induce circulat
 Under certain assumptions (uniform material, uniform magnetic field, no skin effect, etc.) the power lost due to eddy currents per unit mass for a thin sheet or wire can be calculated from the following equation.  
 
 $$
-P = {{{\phi}^{2}{B_{p}}^{2}d^{2}f{2}} \over {6k{\rho}D}}
+P_{e} = {{{\phi}^{2}{B_{p}}^{2}d^{2}f{2}} \over {6k{\rho}D}}
 $$
 
 P is the power lost per unit mass (W/kg),
-$$B_{p}$$ is the peak magnetic field (T),
+Bp is the peak magnetic field (T),
 d is the thickness of the sheet or diameter of the wire (m),
 f is the frequency (Hz),
 k is a constant equal to 1 for a thin sheet and 2 for a thin wire,
@@ -93,9 +93,9 @@ $$
 P_{b} = {\eta}{B_{MAX}}^{n}fV
 $$
 
-$$P_{b}$$ = hysteresis loss (W)
+Pb = hysteresis loss (W)
 η = Steinmetz hysteresis coefficient, depending on material (J/m3)
-$$B_{MAX}$$ = maximum flux density (Wb/m2)
+BMAX = maximum flux density (Wb/m2)
 n = Steinmetz exponent, ranges from 1.5 to 2.5, depending on material
 f = frequency of magnetic reversals per second (Hz)
 V = volume of magnetic material (m3)  
