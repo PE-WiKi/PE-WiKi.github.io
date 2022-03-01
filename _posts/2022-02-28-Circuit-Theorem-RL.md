@@ -74,31 +74,31 @@ $$
 P_{e} =  { { {\phi}^{2}{B_{p}}^{2}d^{2}f^{2} } \over {6k{\rho}D} }
 $$  
 
-P is the power lost per unit mass (W/kg),
-Bp is the peak magnetic field (T),
-d is the thickness of the sheet or diameter of the wire (m),
-f is the frequency (Hz),
-k is a constant equal to 1 for a thin sheet and 2 for a thin wire,
-ρ is the resistivity of the material (Ω m), and
-D is the density of the material (kg/m3).
+P is the power lost per unit mass (W/kg),  
+$$B_{p}$$ is the peak magnetic field (T),  
+d is the thickness of the sheet or diameter of the wire (m),  
+f is the frequency (Hz),  
+k is a constant equal to 1 for a thin sheet and 2 for a thin wire,  
+ρ is the resistivity of the material (Ω m), and  
+D is the density of the material (kg/m3).  
 
 **Hysteresis**  
 Hysteresis loss is caused by the magnetization and demagnetization of the core as current flows in the forward and reverse directions. As the magnetizing force (current) increases, the magnetic flux increases. But when the magnetizing force (current) is decreased, the magnetic flux doesn’t decrease at the same rate, but less gradually. Therefore, when the magnetizing force reaches zero, the flux density still has a positive value. In order for the flux density to reach zero, the magnetizing force must be applied in the negative direction.  
 
-<img class="image image--xl" src="/assets/images/contents/RL_Circuit/hyteresis_bh_curve.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
+<img class="image image--xl" src="/assets/images/contents/RL_Circuit/hyteresis_bh_curve.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto"/>  
 
-<img class="image image--xl" src="/assets/images/contents/RL_Circuit/hyteresis_loss.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
+<img class="image image--xl" src="/assets/images/contents/RL_Circuit/hyteresis_loss.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto"/>  
 
 $$
 P_{b} = {\eta}{B_{MAX}}^{n}fV
 $$
 
-Pb = hysteresis loss (W)
-η = Steinmetz hysteresis coefficient, depending on material (J/m3)
-BMAX = maximum flux density (Wb/m2)
-n = Steinmetz exponent, ranges from 1.5 to 2.5, depending on material
-f = frequency of magnetic reversals per second (Hz)
-V = volume of magnetic material (m3)
+$$P_{b}$$ = hysteresis loss (W)  
+η = Steinmetz hysteresis coefficient, depending on material (J/m3)  
+$$B_{MAX}$$ = maximum flux density (Wb/m2)  
+n = Steinmetz exponent, ranges from 1.5 to 2.5, depending on material  
+f = frequency of magnetic reversals per second (Hz)  
+V = volume of magnetic material (m3)  
 
 ### Side Effects - Saturation  
 If the current through a magnetic core coil is high enough that the core saturates, the inductance will fall and current will rise dramatically. This is a nonlinear threshold phenomenon and results in distortion of the signal. To prevent this, in linear circuits the current through iron core inductors must be limited below the saturation level.  
