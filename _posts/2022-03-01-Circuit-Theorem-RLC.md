@@ -131,8 +131,8 @@ Leq = L1 + L2 + ... + Ln
       <p style='font-size=6px;font-weight: bold;'>References</p>
       <p style='font-size=5px;'>- Charles Alexander, Matthew Sadiku - Fundamentals of Electric Circuits-McGraw-Hill Science_Engineering_Math (2012)</p>
       <p style='font-size=5px;'>- Thomas L. Floyd, David M. Buchla - Principles of Electric Circuits 10th ed</p>
-      <a href="https://en.wikipedia.org/wiki/Inductor" style='font-size=5px;'>- Wikipedia - Inductor</p>
-      <a href="https://www.motioncontroltips.com/hysteresis-loss/#:~:text=Hysteresis%20loss%20is%20caused%20by,increases%2C%20the%20magnetic%20flux%20increases." style='font-size=5px;'>- DANIELLE COLLINS - Hysteresis loss and eddy current loss: What’s the difference?</p>
+      <a href="https://en.wikipedia.org/wiki/Inductor" style='font-size=5px;'>- Wikipedia - Inductor</a>
+      <a href="https://www.motioncontroltips.com/hysteresis-loss/#:~:text=Hysteresis%20loss%20is%20caused%20by,increases%2C%20the%20magnetic%20flux%20increases." style='font-size=5px;'>- DANIELLE COLLINS - Hysteresis loss and eddy current loss: What’s the difference?</a>
     </div>
   </div>
 </div>
