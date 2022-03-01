@@ -25,7 +25,7 @@ $$
 $$
 
 ## Lenz’s Law  
-When the current through a coil changes, an induced voltage is created as a result of the changing electromagnetic field and the polarity of the induced voltage is such that it always opposes the change in current.  
+> When the current through a coil changes, an induced voltage is created as a result of the changing electromagnetic field and the polarity of the induced voltage is such that it always opposes the change in current.  
 
 With Lenz’s Law, we can find the direction of the induced voltage.  
 
