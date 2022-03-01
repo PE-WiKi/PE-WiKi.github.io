@@ -12,8 +12,7 @@ RC Circuit consists of resistors and capacitors. Depending on the configuration,
 # Step Response  
 <img class="image image--lg" src="/assets/images/contents/RC_Circuit/capacitor_step_response.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 70%;"/>  
 
-# Limits
-
+# Practical Issues  
 ## Voltage Rating
 Every capacitor has a limit on the amount of voltage that it can withstand across its plates. The voltage rating specifies the maximum dc voltage that can be applied without risk of damage to the device. Below is a datasheet of a MLCC. Appropriate capacitors must be selected to avoid damage to the circuit.  
 <img class="image image--xl" src="/assets/images/contents/RC_Circuit/datasheet_mlcc.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
