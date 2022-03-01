@@ -66,28 +66,47 @@ Ferromagnetic-core or iron-core inductors use a magnetic core made of a ferromag
 A time-varying current in a ferromagnetic inductor, which causes a time-varying magnetic field in its core, causes energy losses in the core material that are dissipated as heat, due to Eddy currents, Hysteresis.  
 
 **Eddy currents**  
+From Faraday's law of induction, the changing magnetic field can induce circulating loops of electric current in the conductive metal core. The energy in these currents is dissipated as heat in the resistance of the core material. The amount of energy lost increases with the area inside the loop of current.  
 
+Under certain assumptions (uniform material, uniform magnetic field, no skin effect, etc.) the power lost due to eddy currents per unit mass for a thin sheet or wire can be calculated from the following equation.  
+
+$$
+P = {{{\phi}^{2}{B_{p}}^{2}d^{2}f{2}} \over {6k{\rho}D}}
+$$
+
+P is the power lost per unit mass (W/kg),
+$$B_{p}$$ is the peak magnetic field (T),
+d is the thickness of the sheet or diameter of the wire (m),
+f is the frequency (Hz),
+k is a constant equal to 1 for a thin sheet and 2 for a thin wire,
+ρ is the resistivity of the material (Ω m), and
+D is the density of the material (kg/m3).
 
 **Hysteresis**  
+Hysteresis loss is caused by the magnetization and demagnetization of the core as current flows in the forward and reverse directions. As the magnetizing force (current) increases, the magnetic flux increases. But when the magnetizing force (current) is decreased, the magnetic flux doesn’t decrease at the same rate, but less gradually. Therefore, when the magnetizing force reaches zero, the flux density still has a positive value. In order for the flux density to reach zero, the magnetizing force must be applied in the negative direction.  
 
+<img class="image image--xl" src="/assets/images/contents/RL_Circuit/hyteresis_bh_curve.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
 
+<img class="image image--xl" src="/assets/images/contents/RL_Circuit/hyteresis_loss.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
 
+$$
+P_{b} = {\eta}{B_{MAX}}^{n}fV
+$$
 
-**Iron-core Inductor**  
+$$P_{b}$$ = hysteresis loss (W)
+η = Steinmetz hysteresis coefficient, depending on material (J/m3)
+$$B_{MAX}$$ = maximum flux density (Wb/m2)
+n = Steinmetz exponent, ranges from 1.5 to 2.5, depending on material
+f = frequency of magnetic reversals per second (Hz)
+V = volume of magnetic material (m3)  
 
+### Side Effects - Saturation  
+If the current through a magnetic core coil is high enough that the core saturates, the inductance will fall and current will rise dramatically. This is a nonlinear threshold phenomenon and results in distortion of the signal. To prevent this, in linear circuits the current through iron core inductors must be limited below the saturation level.  
 
+<img class="image image--lg" src="/assets/images/contents/RL_Circuit/core_saturation.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
 
-**Toroidal Inductor**  
-
-<img class="image image--xl" src="/assets/images/contents/RL_Circuit/air_core_inductor.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
-
-**Laminated Core Inductor**  
-
-<img class="image image--xl" src="/assets/images/contents/RL_Circuit/air_core_inductor.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
-
-**Powdered Iron-core Inductor**  
-
-<img class="image image--xl" src="/assets/images/contents/RL_Circuit/air_core_inductor.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
+### Various Types of Inductors  
+[Basic Electronics - Types of Inductors](https://www.tutorialspoint.com/basic_electronics/basic_electronics_types_of_inductors.htm#:~:text=Inductors%20are%20available%20in%20different,size%20of%20a%20simple%20resistor.)  
 
 # Calculation of inductance  
 ## Series  
@@ -112,6 +131,7 @@ Leq = L1 + L2 + ... + Ln
       <p style='font-size=5px;'>- Charles Alexander, Matthew Sadiku - Fundamentals of Electric Circuits-McGraw-Hill Science_Engineering_Math (2012)</p>
       <p style='font-size=5px;'>- Thomas L. Floyd, David M. Buchla - Principles of Electric Circuits 10th ed</p>
       <a href="https://en.wikipedia.org/wiki/Inductor" style='font-size=5px;'>- Wikipedia - Inductor</p>
+      <a href="https://www.motioncontroltips.com/hysteresis-loss/#:~:text=Hysteresis%20loss%20is%20caused%20by,increases%2C%20the%20magnetic%20flux%20increases." style='font-size=5px;'>- DANIELLE COLLINS - Hysteresis loss and eddy current loss: What’s the difference?</p>
     </div>
   </div>
 </div>
