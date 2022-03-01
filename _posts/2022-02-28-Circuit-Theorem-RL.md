@@ -7,7 +7,7 @@ tags: Basic
 RL Circuit consists of resistors and Inductors. Depending on the configuration, RL circuit can be applied in various fields. For example, RL circuit can be used as a relay circuit.  
 
 # Magnitude of Inductance  
-<img class="image image--lg" src="/assets/images/contents/RL_Circuit/Inductor.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 60%;"/>  
+<img class="image image--lg" src="/assets/images/contents/RL_Circuit/Inductor.jpg" style="display: block;margin-left: auto;margin-right: auto"/>  
 
 $$
 L = {N^{2}μA \over ℓ}
@@ -34,12 +34,12 @@ V_{ind} = -N{d\phi \over dt}
 $$
 
 # Step Response  
-<img class="image image--lg" src="/assets/images/contents/RL_Circuit/step_response.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 60%;"/>  
+<img class="image image--lg" src="/assets/images/contents/RL_Circuit/step_response.jpg" style="display: block;margin-left: auto;margin-right: auto"/>  
 
 # Practical Issues  
 ## Winding Resistance  
 When a coil is made of a certain material, for example, insulated copper wire, that wire has a certain resistance per unit of length. In many applications, the winding resistance may be small enough to be ignored and the coil can be considered an ideal inductor. In other cases, the resistance must be considered.
-<img class="image image--xl" src="/assets/images/contents/RL_Circuit/Inductor_Winding_Resistance.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
+<img class="image image--xl" src="/assets/images/contents/RL_Circuit/Inductor_Winding_Resistance.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto"/>  
 
 ### Q Factor  
 This resistance dissipates some of the reactive energy. The quality factor (or Q) of an inductor is the ratio of its inductive reactance to its resistance at a given frequency, and is a measure of its efficiency. The higher the Q factor of the inductor, the closer it approaches the behavior of an ideal inductor.  
@@ -49,18 +49,18 @@ $$
 
 ## Winding Capacitance  
 When two conductors are placed side by side, there is always some capacitance between them. In many applications, this winding capacitance is very small and has no significant effect. In other cases, particularly at high frequencies, it may become quite important.  
-<img class="image image--xl" src="/assets/images/contents/RL_Circuit/Inductor_Winding_Capacitance.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
+<img class="image image--xl" src="/assets/images/contents/RL_Circuit/Inductor_Winding_Capacitance.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto"/>  
 
 ## Saturation  
 # Types of Inductors  
 ## Air-core Inductor  
 The term air core coil describes an inductor that does not use a magnetic core made of a ferromagnetic material. The term refers to coils wound on plastic, ceramic, or other nonmagnetic forms, as well as those that have only air inside the windings. Air core coils have lower inductance than ferromagnetic core coils, but are often used at high frequencies because they are free from energy losses called core losses that occur in ferromagnetic cores, which increase with frequency. A side effect that can occur in air core coils in which the winding is not rigidly supported on a form is 'microphony': mechanical vibration of the windings can cause variations in the inductance.  
-<img class="image image--xl" src="/assets/images/contents/RL_Circuit/air_core_inductor.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
+<img class="image image--xl" src="/assets/images/contents/RL_Circuit/air_core_inductor.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto"/>  
 
 ## Ferromagnetic-core inductor  
 Ferromagnetic-core or iron-core inductors use a magnetic core made of a ferromagnetic or ferrimagnetic material such as iron or ferrite to increase the inductance. A magnetic core can increase the inductance of a coil by a factor of several thousand, by increasing the magnetic field due to its higher magnetic permeability. However the magnetic properties of the core material cause several side effects which alter the behavior of the inductor.  
 
-<img class="image image--xl" src="/assets/images/contents/RL_Circuit/iron_core_inductor.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
+<img class="image image--xl" src="/assets/images/contents/RL_Circuit/iron_core_inductor.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto"/>  
 
 ### Side Effects - Core losses  
 A time-varying current in a ferromagnetic inductor, which causes a time-varying magnetic field in its core, causes energy losses in the core material that are dissipated as heat, due to Eddy currents, Hysteresis.  
@@ -70,7 +70,9 @@ From Faraday's law of induction, the changing magnetic field can induce circulat
 
 Under certain assumptions (uniform material, uniform magnetic field, no skin effect, etc.) the power lost due to eddy currents per unit mass for a thin sheet or wire can be calculated from the following equation.  
 
-
+$$
+P_{e} = {{{\phi}^{2}{B_{p}}^{2}d^{2}f{2}} \over {6k{\rho}D}}
+$$  
 
 P is the power lost per unit mass (W/kg),
 Bp is the peak magnetic field (T),
