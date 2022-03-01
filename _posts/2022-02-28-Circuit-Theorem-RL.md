@@ -37,7 +37,7 @@ $$
 <img class="image image--lg" src="/assets/images/contents/RL_Circuit/step_response.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 60%;"/>  
 
 # Practical Issues  
-## Winding Resistance (DC Resistance)  
+## Winding Resistance  
 When a coil is made of a certain material, for example, insulated copper wire, that wire has a certain resistance per unit of length. In many applications, the winding resistance may be small enough to be ignored and the coil can be considered an ideal inductor. In other cases, the resistance must be considered.
 <img class="image image--xl" src="/assets/images/contents/RL_Circuit/Inductor_Winding_Resistance.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
 
