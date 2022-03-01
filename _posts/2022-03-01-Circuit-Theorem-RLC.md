@@ -26,7 +26,7 @@ $$
 $$
 
 ## Lenz’s Law  
-When the current through a coil changes, an induced voltage is created as a result of the changing electromagnetic field and the polarity of the induced voltage is such that it always opposes the change in current.  
+> When the current through a coil changes, an induced voltage is created as a result of the changing electromagnetic field and the polarity of the induced voltage is such that it always opposes the change in current.  
 
 With Lenz’s Law, we can find the direction of the induced voltage.  
 
@@ -35,7 +35,7 @@ V_{ind} = -N{d\phi \over dt}
 $$
 
 # Step Response  
-<img class="image image--lg" src="/assets/images/contents/RL_Circuit/step_response.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 60%;"/>  
+<img class="image image--md" src="/assets/images/contents/RL_Circuit/step_response.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 60%;"/>  
 
 # Practical Issues  
 ## Winding Resistance (DC Resistance)  
