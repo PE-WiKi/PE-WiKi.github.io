@@ -71,7 +71,7 @@ From Faraday's law of induction, the changing magnetic field can induce circulat
 Under certain assumptions (uniform material, uniform magnetic field, no skin effect, etc.) the power lost due to eddy currents per unit mass for a thin sheet or wire can be calculated from the following equation.  
 
 $$
-P_{e} = {\phi}^{2}{B_{p}}^{2}d^{2}f{2}
+P_{e} =  { { {\phi}^{2}{B_{p}}^{2}d^{2}f{2} } \over {6k{\rho}D} }
 $$  
 
 P is the power lost per unit mass (W/kg),
