@@ -44,6 +44,7 @@ When a coil is made of a certain material, for example, insulated copper wire, t
 
 ### Q Factor  
 This resistance dissipates some of the reactive energy. The quality factor (or Q) of an inductor is the ratio of its inductive reactance to its resistance at a given frequency, and is a measure of its efficiency. The higher the Q factor of the inductor, the closer it approaches the behavior of an ideal inductor.  
+
 $$
 Q = {wL \over R}
 $$
@@ -104,7 +105,7 @@ V = volume of magnetic material (m3)
 ### Side Effects - Saturation  
 If the current through a magnetic core coil is high enough that the core saturates, the inductance will fall and current will rise dramatically. This is a nonlinear threshold phenomenon and results in distortion of the signal. To prevent this, in linear circuits the current through iron core inductors must be limited below the saturation level.  
 
-<img class="image image--lg" src="/assets/images/contents/RL_Circuit/core_saturation.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto;width: 90%;"/>  
+<img class="image image--lg" src="/assets/images/contents/RL_Circuit/core_saturation.jpg" style="height: 200px; display: block;margin-left: auto;margin-right: auto"/>  
 
 ### Various Types of Inductors  
 [Basic Electronics - Types of Inductors](https://www.tutorialspoint.com/basic_electronics/basic_electronics_types_of_inductors.htm#:~:text=Inductors%20are%20available%20in%20different,size%20of%20a%20simple%20resistor.)  
