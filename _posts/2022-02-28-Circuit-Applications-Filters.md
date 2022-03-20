@@ -7,7 +7,7 @@ tags: Applications
 In electronics, unwanted noise always exists. To avoid misoperation, noises must be attenuated by filters. In real world, RC filter is commonly used for reducing high-frequency noises. Let's look around various filter types.  
 
 # Terminology  
-<img class="image image--lg" src="/assets/images/contents/Filters/Terminology_Ref.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 80%;"/>  
+<img class="image image--lg" src="/assets/images/contents/Filters/Terminology_Ref.jpg"/>  
 
 ## -3dB Frequency ($$f_{3dB}$$)  
 This represents the input frequency that causes the output signal to drop to −3 dB relative to the input signal. The -3 dB frequency is equivalent to the cutoff frequency—the point where the input-to-output power is reduced by 1/2 or the point where the input-to-output voltage is reduced by 1/2. For low-pass and high-pass filters, there is only one -3 dB frequency. However, for bandpass and notch filters, there are two 3dB frequencies, typically referred to as $$f_{1}$$ and $$f_{2}$$.  
@@ -43,10 +43,12 @@ For a notch filter, use $$Q = {f_{2}-f_{1}} \over f_{0}$$, where $$f_{0}$$ is of
 # Types  
 <img class="image image--lg" src="/assets/images/contents/Filters/filter_types.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 80%;"/>  
 Filter type is determinded according to the purpose.  
+Basic filter circuits are as follows.  
+<img class="image image--md" src="/assets/images/contents/Filters/Filter_BasicForm.jpg"/>  
 
 ## LPF  
-LPF can be made up with various forms. Basic forms are as below.  
-<img class="image image--md" src="/assets/images/contents/Filters/LPF_BasicForm.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 60%;"/>  
+LPF can be made up with various forms. 
+
 
 
 ----  
