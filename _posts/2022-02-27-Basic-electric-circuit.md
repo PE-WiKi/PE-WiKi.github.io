@@ -1,6 +1,7 @@
 ---
 title: Passive Elements
 tags: Basic
+permalink: /Basic/Passive
 ---
     
 # What is passive elements?  

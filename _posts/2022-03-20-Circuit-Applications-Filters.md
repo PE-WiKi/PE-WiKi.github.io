@@ -1,6 +1,7 @@
 ---
 title: Filters
 tags: Applications
+permalink: /Applications/Filters
 ---  
 
 # Introduction  

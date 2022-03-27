@@ -1,6 +1,7 @@
 ---
 title: Differential Equation
 tags: Basic
+permalink: /Basic/DE
 ---  
 
 # Introduction  

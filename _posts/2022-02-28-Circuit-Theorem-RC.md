@@ -1,6 +1,7 @@
 ---
 title: RC Circuit
 tags: Basic
+permalink: /Basic/RC
 ---  
 
 # Introduction  

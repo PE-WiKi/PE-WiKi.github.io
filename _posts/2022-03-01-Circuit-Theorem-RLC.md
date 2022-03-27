@@ -1,5 +1,5 @@
 ---
-title: RL Circuit
+title: RLC Circuit
 tags: Basic
 published: false
 ---  

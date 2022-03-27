@@ -1,6 +1,7 @@
 ---
 title: RL Circuit
 tags: Basic
+permalink: /Basic/RL
 ---  
 
 # Introduction  
