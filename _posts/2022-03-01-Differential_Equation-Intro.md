@@ -1,7 +1,7 @@
 ---
 title: Differential Equation
-tags: Basic
-permalink: /Basic/DE
+tags: Differential_Equation
+permalink: /DE/Intro
 ---  
 
 # Introduction  
